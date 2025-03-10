@@ -76,7 +76,7 @@ namespace SimpleFormsAppWithMessageBoxes
 
             else
             {
-                MessageBox.Show($"Thank you! Have a wonderful day!", "konfirmsyon",
+                MessageBox.Show($"Thank you! Have a wonderful day!", "Confirmation",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
